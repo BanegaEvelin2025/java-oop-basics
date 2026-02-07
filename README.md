@@ -1,8 +1,21 @@
-# Java OOP Basics
+# Java OOP Basics – Task Management
 
-This is a small project created to practice:
-- Java fundamentals
-- Object-Oriented Programming (OOP)
-- Classes and methods
+This is a small Java console project created to practice Object-Oriented Programming (OOP).
 
-The project is part of my learning path as an aspiring software developer.
+## Features
+- Create tasks
+- Mark tasks as completed
+- Display task status in console
+
+## Concepts used
+- Classes and objects
+- Constructors
+- Encapsulation
+- Methods and attributes
+
+## Technologies
+- Java
+- Git & GitHub
+
+This project is part of my preparation for a Software Development Ausbildung.
+
